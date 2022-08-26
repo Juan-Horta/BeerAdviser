@@ -11,9 +11,9 @@ public class BeerExpert {
             brands.add("Corona Premier");
             brands.add("Pabst Blue Ribbon Easy");
         } else if(color.equals("amber")) {
-            brands.add("Portland Brewing MacTarnahan's\n");
-            brands.add("Four Saints Brewing Potter's Clay\n");
-            brands.add("Breakside Brewery Fall Apple Ale\n");
+            brands.add("Portland Brewing MacTarnahan's");
+            brands.add("Four Saints Brewing Potter's Clay");
+            brands.add("Breakside Brewery Fall Apple Ale");
         }else if(color.equals("brown")) {
             brands.add("Sweetwater Georgia");
             brands.add("Founders Sumatra Mountain");
